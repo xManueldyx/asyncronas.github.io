@@ -1,0 +1,15 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #imageContainer img {
+    max-width: 100%;
+    max-height: 300px;
+    display: none;
+  }
+  
+  #loading {
+    display: none;
+  }
+  
